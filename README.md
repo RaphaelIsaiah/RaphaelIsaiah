@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaphaelIsaiah
-- 👀 I’m currently learning frontend development
-- 🌱 
+- 🌱  I’m currently learning frontend development
+- 👀
 - 💞️
 - 📫
 
