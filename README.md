@@ -1,5 +1,7 @@
 Hi, I'm Raphael, a front-end developer.
+
 I am currently learning React.js.
+
 Skills: HTML, CSS, JAVASCRIPT, REACT.JS
 
 
