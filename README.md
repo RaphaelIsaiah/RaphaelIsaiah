@@ -1,8 +1,8 @@
-Hi, I'm Raphael, a front-end developer.
+👋🏾 Hi, I'm Raphael, a front-end developer.
 
-I'm immersing myself in the world of freeCodeCamp, eagerly learning to become a proficient full-stack developer.
+🌳 I'm immersing myself in the world of freeCodeCamp, eagerly learning to become a proficient full-stack developer.
 
-Skills: HTML, CSS, JAVASCRIPT, REACT.JS
+🧰 HTML, CSS, JAVASCRIPT, REACT.JS
 
 
 <!---
