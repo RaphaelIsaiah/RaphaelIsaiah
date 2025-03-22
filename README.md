@@ -2,7 +2,7 @@
 
 🌳 I'm immersing myself in the world of freeCodeCamp, eagerly learning to become a proficient full-stack developer.
 
-🧰 HTML, CSS, JAVASCRIPT, REACT.JS
+🧰 HTML, CSS, JAVASCRIPT, Sass, jQuery, REACT.JS, Redux, Bootstrap, Tailwind CSS, Django, Python, MySQL.
 
 
 <!---
